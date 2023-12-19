@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "OMNOMNOM"
 name = "OmnomnomModpack"
-versionNumber = "0.0.3"
+versionNumber = "0.0.4"
 description = "A modpack for 'Omnomnom' server"
 websiteUrl = "https://github.com/MLNW/valheim-modpack-omnomnom"
 containsNsfwContent = false
@@ -23,7 +23,9 @@ LVH-IT-UseEquipmentInWater = "0.2.4"
 MathiasDecrock-Snap_Points_Made_Easy = "1.3.3"
 Smoothbrain-Farming = "2.1.12"
 Smoothbrain-Foraging = "1.0.8"
-Smoothbrain-Lumberjacking = "1.0.5"
+# TODO: Disallows destroying small things
+#   https://github.com/blaxxun-boop/Lumberjacking/issues/6
+#Smoothbrain-Lumberjacking = "1.0.5"
 Smoothbrain-Mining = "1.1.5"
 Smoothbrain-Ranching = "1.1.3"
 Smoothbrain-Sailing = "1.1.7"
