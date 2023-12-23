@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "OMNOMNOM"
 name = "OmnomnomModpack"
-versionNumber = "0.0.4"
+versionNumber = "0.0.5"
 description = "A modpack for 'Omnomnom' server"
 websiteUrl = "https://github.com/MLNW/valheim-modpack-omnomnom"
 containsNsfwContent = false
